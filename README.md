@@ -1,4 +1,4 @@
-# Wellcome to the web site of the library Nonlinear Dynamics Lab (ndlab)
+# Welcome to the web site of the library Nonlinear Dynamics Lab (ndlab)
 
 In this site, we can find information about this library and its applications. 
 
